@@ -1,0 +1,117 @@
+{
+  "defaults": {
+    "parameter": "PM10"
+  },
+  "mappings": [
+    {
+      "key": "ENE05263",
+      "vendorId": "41",
+      "industryId": "Salbona161",
+      "stationId": "JRK61",
+      "analyserId": "ENE05263",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05264",
+      "vendorId": "41",
+      "industryId": "Dokania162",
+      "stationId": "JRK62",
+      "analyserId": "ENE05264",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05267",
+      "vendorId": "41",
+      "industryId": "Salbona163",
+      "stationId": "JRK63",
+      "analyserId": "ENE05267",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05268",
+      "vendorId": "41",
+      "industryId": "Dokania164",
+      "stationId": "JRK64",
+      "analyserId": "ENE05268",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05269",
+      "vendorId": "41",
+      "industryId": "Salbona165",
+      "stationId": "JRK65",
+      "analyserId": "ENE05269",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05304",
+      "vendorId": "41",
+      "industryId": "Chorbatiya166",
+      "stationId": "JRK66",
+      "analyserId": "ENE05304",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05305",
+      "vendorId": "41",
+      "industryId": "Barmasia167",
+      "stationId": "JRK67",
+      "analyserId": "ENE05305",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05317",
+      "vendorId": "41",
+      "industryId": "Chorbatiya168",
+      "stationId": "JRK68",
+      "analyserId": "ENE05317",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05434",
+      "vendorId": "41",
+      "industryId": "EastIndia169",
+      "stationId": "JRK69",
+      "analyserId": "ENE05434",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    },
+    {
+      "key": "ENE05425",
+      "vendorId": "41",
+      "industryId": "Bagodar170",
+      "stationId": "JRK70",
+      "analyserId": "ENE05425",
+      "unit": "ug/m3",
+      "useRandom": true,
+      "randomMin": 20,
+      "randomMax": 95
+    }
+  ]
+}
